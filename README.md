@@ -1,4 +1,4 @@
- <a href="https://site-hospitalar.vercel.app/" target="_blank"><h1 align="center">Site Hospitalar</h1></a>
+ <a target="_blank" href="https://site-hospitalar.vercel.app/" ><h1 align="center">Site Hospitalar</h1></a>
  
 <p align="center">
 
